@@ -16,6 +16,7 @@ Actualizar Alumnos: Selecciona un alumno de la lista y elige la opción Editar A
 Eliminar Alumnos: Selecciona un alumno de la lista y presiona el botón Eliminar Alumno. Confirma la acción para eliminar el registro.
 
 -------Gestión de Asignaturas-------
+
 Crear Asignaturas: Selecciona Agregar Asignatura e ingresa el nombre de la asignatura y el número de créditos. Completa todos los campos y presiona Guardar.
 
 Consultar Asignaturas: En la pantalla principal, se muestra un listado de todas las asignaturas en un DataGridView.
